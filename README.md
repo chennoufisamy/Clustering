@@ -15,8 +15,8 @@
     <li>La méthode de clustering hiérarchique, CAH (Classification Ascendante Hiérarchique).</li>
   </ul>
 
-  Pour obtenir de meilleurs résultats en termes de temps d'exécution et de précision, nous avons décidé de prendre la moyenne du total des ventes de chaque produit, de les classer par ordre croissant, puis     
-  d'utiliser les données relatives aux 100 premiers produits les plus vendus.
+  Pour obtenir de meilleurs résultats en termes de temps d'exécution et de précision, nous avons décidé de prendre la moyenne du total des ventes de chaque produit, de les classer par ordre croissant,
+  puis d'utiliser les données relatives aux 100 premiers produits les plus vendus.
 </p>
 
 
